@@ -1,0 +1,7 @@
+# Ambiente virtual
+.venv/
+__pycache__/
+
+# Planilhas (as pastas são criadas pelo script)
+pendentes/
+processados/
